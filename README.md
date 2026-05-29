@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Samiksha%20Dhadve&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Analytics%20Engineering&descAlignY=60&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=SQL+%7C+Python+%7C+R+%7C+Tableau+%7C+Power+BI;Building+dashboards+that+drive+decisions;Healthcare+%7C+Fintech+%7C+E-commerce+%7C+Insurance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=SQL+%7C+Python+%7C+R+%7C+Tableau+%7C+Power+BI;Why+is+where+I+start;Healthcare+%7C+Fintech+%7C+E-commerce+%7C+Insurance)](https://git.io/typing-svg)
 
 </div>
 
