@@ -10,12 +10,12 @@
 
 ## About me
 
-I'm a data analyst with a background in business intelligence and analytics engineering. I work across the full data stack, querying and modelling in SQL, analysing in Python, building dashboards in Tableau and Power BI that business teams can actually use.
+I'm a data analyst with a background in business intelligence and analytics engineering. I work across the full data stack, querying and modelling in SQL, analysing in Python and R, and building dashboards in Tableau and Power BI that business teams can actually use.
 
 My projects cover healthcare, fintech, e-commerce, real estate, and insurance. The through line is the same in all of them: find the insight that changes a decision.
 
-Currently based in the USA 
- 
+Currently based in USA
+
 ---
 
 ## Tech stack
@@ -24,11 +24,13 @@ Currently based in the USA
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-000000?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Excel VBA](https://img.shields.io/badge/Excel%20VBA-000000?style=flat-square&logo=microsoft-excel&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-000000?style=flat-square&logo=testinglibrary&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-000000?style=flat-square&logo=jira&logoColor=white)
 
 </div>
 
@@ -36,11 +38,11 @@ Currently based in the USA
 
 <div align="center">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-000000?style=flat-square&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-000000?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-000000?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 </div>
 
@@ -48,10 +50,10 @@ Currently based in the USA
 
 <div align="center">
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Alteryx](https://img.shields.io/badge/Alteryx-1E5ECA?style=for-the-badge&logo=alteryx&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-000000?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=flat-square&logo=powerbi&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-000000?style=flat-square&logo=looker&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-000000?style=flat-square&logo=alteryx&logoColor=white)
 
 </div>
 
@@ -59,15 +61,15 @@ Currently based in the USA
 
 <div align="center">
 
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-000000?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-000000?style=flat-square&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-000000?style=flat-square&logo=apachehadoop&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikit-learn&logoColor=white)
+![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-000000?style=flat-square&logo=apacheairflow&logoColor=white)
 
 </div>
 
 ---
-
 
 ## Connect
 
