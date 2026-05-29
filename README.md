@@ -12,9 +12,9 @@
 
 I'm a data analyst with a background in business intelligence and analytics engineering. I work across the full data stack, querying and modelling in SQL, analysing in Python and R, and building dashboards in Tableau and Power BI that business teams can actually use.
 
-My projects cover healthcare, fintech, e-commerce, real estate, and insurance. 
+My projects focus on business problems across healthcare, fintech, e-commerce, real estate, and insurance. I care about analysis that leads to a decision, not just a chart.
 
-Based in the USA 
+Currently based in USA
 
 ---
 
