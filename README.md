@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Samiksha%20Dhadve&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Analytics%20Engineering&descAlignY=65&descSize=17)
+![Banner](banner.svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=SQL+%7C+Python+%7C+R+%7C+Tableau+%7C+Power+BI;Building+dashboards+that+drive+decisions;Healthcare+%7C+Fintech+%7C+E-commerce+%7C+Insurance)](https://git.io/typing-svg)
 
