@@ -2,7 +2,7 @@
 
 ![Banner](banner.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=SQL+%7C+Python+%7C+R+%7C+Tableau+%7C+Power+BI;Building+dashboards+that+drive+decisions;Healthcare+%7C+Fintech+%7C+E-commerce+%7C+Insurance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines="Why"+is+where+I+start.;SQL+%7C+Python+%7C+R+%7C+Tableau+%7C+Power+BI;Healthcare+%7C+Fintech+%7C+E-commerce+%7C+Insurance)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,9 +10,11 @@
 
 ## About me
 
-I'm a data analyst based in the USA with a background in business intelligence and analytics engineering. I work across the full data stack — querying and modelling in SQL, analysing in Python and R, and building dashboards in Tableau and Power BI that business teams can actually use.
+I'm a data analyst with a background in business intelligence and analytics engineering. I work across the full data stack, querying and modelling in SQL, analysing in Python and R, and building dashboards in Tableau and Power BI that business teams can actually use.
 
-My projects cover healthcare, fintech, e-commerce, real estate, and insurance. The through line is the same in all of them: find the insight that changes a decision.
+My projects focus on business problems across healthcare, fintech, e-commerce, real estate, and insurance. I care about analysis that leads to a decision, not just a chart.
+
+Currently based in USA
 
 ---
 
@@ -22,7 +24,7 @@ My projects cover healthcare, fintech, e-commerce, real estate, and insurance. T
 
 **✦ Languages and analytics**
 
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/Python-b5c9f0?style=flat-square&logo=python&logoColor=4a6fa5&labelColor=dce8fb" />
 <img src="https://img.shields.io/badge/R-c5d9c5?style=flat-square&logo=r&logoColor=3a6b3a&labelColor=dce8dc" />
 <img src="https://img.shields.io/badge/SQL-d4c5e8?style=flat-square&logo=postgresql&logoColor=5a3a8a&labelColor=e8daf5" />
@@ -36,7 +38,7 @@ My projects cover healthcare, fintech, e-commerce, real estate, and insurance. T
 
 **✦ Databases and cloud**
 
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/PostgreSQL-b5c9f0?style=flat-square&logo=postgresql&logoColor=2a4a8a&labelColor=dce8fb" />
 <img src="https://img.shields.io/badge/MySQL-b5c9f0?style=flat-square&logo=mysql&logoColor=2a4a8a&labelColor=dce8fb" />
 <img src="https://img.shields.io/badge/Snowflake-c5e8f0?style=flat-square&logo=snowflake&logoColor=1a6a8a&labelColor=d4f0f8" />
@@ -48,7 +50,7 @@ My projects cover healthcare, fintech, e-commerce, real estate, and insurance. T
 
 **✦ Visualisation and BI**
 
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/Tableau-f0d4c5?style=flat-square&logo=tableau&logoColor=8a3a0a&labelColor=f5e0d4" />
 <img src="https://img.shields.io/badge/Power%20BI-f0e8b5?style=flat-square&logo=powerbi&logoColor=8a6a0a&labelColor=f8f0cc" />
 <img src="https://img.shields.io/badge/Looker-c5d9c5?style=flat-square&logo=looker&logoColor=2a6a4a&labelColor=ddf0dd" />
@@ -59,7 +61,7 @@ My projects cover healthcare, fintech, e-commerce, real estate, and insurance. T
 
 **✦ Data engineering and ML**
 
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/Azure%20Data%20Factory-d4c5e8?style=flat-square&logo=microsoft-azure&logoColor=4a2a8a&labelColor=e8daf5" />
 <img src="https://img.shields.io/badge/Apache%20Spark-f0d4c5?style=flat-square&logo=apachespark&logoColor=8a3a0a&labelColor=f5e0d4" />
 <img src="https://img.shields.io/badge/Hadoop-f0e8b5?style=flat-square&logo=apachehadoop&logoColor=8a6a0a&labelColor=f8f0cc" />
@@ -79,4 +81,8 @@ My projects cover healthcare, fintech, e-commerce, real estate, and insurance. T
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+
+
+
