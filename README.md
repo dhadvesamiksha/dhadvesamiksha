@@ -1,5 +1,9 @@
 <div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&height=80&section=header&color=0:556F95,50:7D97B6,100:C8D5E2)
+
+<div align="center">
+
 ![Banner](banner.svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7D97B6&center=true&vCenter=true&width=600&lines="Why"+is+where+I+start.;Healthcare+%7C+Fintech+%7C+E-commerce+%7C+Insurance;SQL+%7C+Python+%7C+R+%7C+Tableau+%7C+Power+BI)](https://git.io/typing-svg)
