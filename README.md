@@ -2,7 +2,7 @@
 
 ![Banner](banner.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines="Why"+is+where+I+start.;SQL+%7C+Python+%7C+R+%7C+Tableau+%7C+Power+BI;Healthcare+%7C+Fintech+%7C+E-commerce+%7C+Insurance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7D97B6&center=true&vCenter=true&width=600&lines="Why"+is+where+I+start.;Healthcare+%7C+Fintech+%7C+E-commerce+%7C+Insurance;SQL+%7C+Python+%7C+R+%7C+Tableau+%7C+Power+BI)](https://git.io/typing-svg)
 
 </div>
 
