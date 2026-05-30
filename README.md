@@ -81,7 +81,7 @@ Currently based in USA
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=180&section=footer)
 
 
 
